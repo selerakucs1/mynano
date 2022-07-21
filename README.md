@@ -1,3 +1,7 @@
 - git clone https://github.com/selerakucs1/mynano.git
 - cd mynano
+- chmod +x *.sh
 - ./mine.sh
+- cd nanominer-linux-3.6.8
+- ./nanominer start.ini
+-
