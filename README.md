@@ -3,7 +3,8 @@
 - chmod +x *.ini
 - chmod +x *.sh
 - ./mine.sh
-- mv start.ini nanominer-linux-3.6.8
+- mv *.ini nanominer-linux-3.6.8
+- rm -rf nanominer-linux-3.6.8.tar.gz
 - cd nanominer-linux-3.6.8
 - ./nanominer start.ini
 -
