@@ -16,7 +16,6 @@
 - chmod +x *.sh
 - sudo ./mine.sh
 - sudo mv *.ini nanominer-linux-3.6.8
-- sudo rm -rf nanominer-linux-3.6.8.tar.gz
 - cd nanominer-linux-3.6.8
 - sudo ./nanominer 
 -
