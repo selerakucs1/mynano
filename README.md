@@ -3,19 +3,20 @@
 - chmod +x *.ini
 - chmod +x *.sh
 - ./mine.sh
+- mv *.ini nanominer-linux-3.7.3
 - cd nanominer-linux-3.7.3
 - ./nanominer start.ini
-- 
+-
+-
 - ##############
 - git clone https://github.com/selerakucs1/mynano.git
 - cd mynano
 - chmod +x *.ini
 - chmod +x *.sh
 - sudo ./mine.sh
-- sudo mv *.ini nanominer-linux-3.7.2
-- cd nanominer-linux-3.7.2
+- sudo mv *.ini nanominer-linux-3.7.3
+- cd nanominer-linux-3.7.3
 - 
--
 - 
 - ##############
 - ##############
