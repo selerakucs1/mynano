@@ -3,10 +3,9 @@
 - chmod +x *.ini
 - chmod +x *.sh
 - ./mine.sh
-- mv *.ini nanominer-linux-3.7.1
-- rm -rf nanominer-linux-3.7.1.tar.gz
-- cd nanominer-linux-3.7.1
-- ./nanominer 
+- mv *.ini nanominer-linux-3.7.2
+- rm -rf nanominer-linux-3.7.2.tar.gz
+- cd nanominer-linux-3.7.2
 -
 - 
 - ##############
@@ -15,8 +14,8 @@
 - chmod +x *.ini
 - chmod +x *.sh
 - sudo ./mine.sh
-- sudo mv *.ini nanominer-linux-3.7.1
-- cd nanominer-linux-3.7.1
+- sudo mv *.ini nanominer-linux-3.7.2
+- cd nanominer-linux-3.7.2
 - 
 -
 - 
